@@ -1,0 +1,21 @@
+.space{
+    white-space: pre-line;
+}
+.marge{
+    margin-left: 55px;
+}
+.imput{
+    margin-bottom: 2px;
+}
+.spaceDiv{
+    margin-left: 15px;
+}
+.bleu, .bleu legend{
+    background-color: #0000ff;
+}
+.violet, .violet legend{
+    background-color: darkmagenta;
+}
+.magenta, .magenta legend{
+    background-color: #c71585;
+}
